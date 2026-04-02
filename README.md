@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
+## Information Developer | Technical Writer
 
-<!--
-**Alpajadav-techwriter/Alpajadav-techwriter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📝 Specializing in user-centered documentation, 
+   DITA structured authoring, and AI-driven content workflows
 
-Here are some ideas to get you started:
+### 🛠️ Tools & Technologies
+- **Authoring:** oXygen XML, MadCap Flare, Confluence
+- **Standards:** DITA, XML, Markdown, HTML
+- **AI Tools:** ChatGPT, Microsoft Copilot, Claude
+- **API Docs:** REST APIs, JSON, Swagger, Postman
+- **CCMS:** SDL Tridion, Vasont
+- **Collaboration:** JIRA, Microsoft Teams, Office 365
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+- 🔗 [REST API Documentation Sample](#)
+- 🔗 [DITA Topic Library](#)
+- 🔗 [AI-Powered Documentation Workflow](#)
+- 🔗 [User Guide Sample](#)
+
+### 📫 Contact
+- LinkedIn: [your LinkedIn URL]
+- Email: yourname@email.com
