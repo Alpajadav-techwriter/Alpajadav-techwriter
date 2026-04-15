@@ -1,31 +1,6 @@
-# Hi, I'm Alpa 👋
-## Information Developer | Technical Writer
-
-📝 Specializing in user-centered, developer documentation, 
-   DITA structured authoring, and AI-driven content workflows
-
-### 🛠️ Tools & Technologies
-- **Authoring:** oXygen XML, MadCap Flare, Confluence
-- **Standards:** DITA, XML, Markdown, HTML
-- **AI Tools:** ChatGPT, Microsoft Copilot, Claude
-- **API Docs:** REST APIs, JSON, Swagger, Postman
-- **CCMS:** SDL Tridion, Vasont
-- **Collaboration:** JIRA, Microsoft Teams, Office 365
-- **Technical Documentation:** User Guides, Administration Guides, Integration Guides, API Documentation (REST, JSON, XML), Release Notes, Knowledge Base Articles, Help Systems, UI/UX Writing, Software & Enterprise Application Documentation
-- **Content Development & Architecture:** Information Architecture & Content Structuring, DITA/XML, Markdown, Content Management & Version Control, Agile & Scrum Documentation Practices
-- **Tools & Technologies:** Oxygen XML, MadCap Flare, FrameMaker, Arbortext Editor, R4i Writer, Confluence, Notion, SharePoint, CMS Platforms, Jira, Azure DevOps, Git, GitHub, Snagit, Copilot, Gen AI, Chat GPT, Microsoft 365 (Word, Excel, PowerPoint, Outlook, Teams)
-- **Professional Skills:** Problem Solving, Strong Communication, Cross-functional Collaboration, Leadership and time management, Ready to take initiative
-
-### 📂 Featured Projects
-- 🔗docs.infor.com
-
-### 📫 Contact
-- LinkedIn: www.linkedin.com/in/alpa-jadav-816311199
-- Email: alpasjadav1004@email.com
-
 - # 👋 About Me
 
-Hi, I am an **Information Developer / Technical Writer** with **4+ years of experience**
+Hi, I am Alpa Jadav, an **Information Developer / Technical Writer** with **4+ years of experience**
 in the software and Electrical/Semiconductor industry. I specialize in transforming complex technical
 information into clear, accurate, and user-centered documentation that empowers both
 developers and end users.
@@ -37,12 +12,12 @@ I am passionate about combining **structured authoring best practices** with
 
 ## 🎯 What I Do
 
-- 📘 **User & Admin Guides** — task-based, user-centered documentation for software products
-- 🗂️ **Structured Authoring** — DITA/XML topic-based writing with content reuse and single-sourcing
-- 🤖 **AI-Driven Workflows** — LLM-based content generation, prompt engineering, and AI-assisted review
-- 🏗️ **Information Architecture** — content structuring, taxonomy, and help system design
-- ✍️ **UI/UX Writing** — microcopy, tooltips, error messages, and onboarding content
-- 📡 **API Documentation** — REST, JSON, XML — endpoints, authentication, error codes, code samples
+- 📘 **User & Admin Guides** - task-based, user-centered documentation for software products
+- 🗂️ **Structured Authoring** - DITA/XML topic-based writing with content reuse and single-sourcing
+- 🤖 **AI-Driven Workflows** - LLM-based content generation, prompt engineering, and AI-assisted review
+- 🏗️ **Information Architecture** - content structuring, taxonomy, and help system design
+- ✍️ **UI/UX Writing** - Tooltips, error messages, and onboarding content
+- 📡 **API Documentation** - REST, JSON, XML - endpoints, authentication, error codes, code samples
 ---
 
 ## 🛠️ Skills
@@ -58,10 +33,10 @@ I am passionate about combining **structured authoring best practices** with
 | Administration Guides | System configuration, setup, and management documentation |
 | Integration Guides | API integration walkthroughs and developer-facing documentation |
 | Help Systems | Online help, WebHelp, and context-sensitive help authoring |
-| API Documentation | REST, JSON, XML — endpoints, parameters, responses, error codes |
+| API Documentation | REST, JSON, XML - endpoints, parameters, responses, error codes |
 | Release Notes | Feature announcements, bug fixes, and version changelogs |
-| Knowledge Base Articles | Troubleshooting guides, FAQs, and how-to articles |
-| UI/UX Writing | Microcopy, tooltips, error messages, onboarding flows |
+| Knowledge Base Articles | Troubleshooting guides, and FAQs |
+| UI/UX Writing | Tooltips, error messages, onboarding flows |
 
 ---
 
@@ -100,10 +75,10 @@ I am passionate about combining **structured authoring best practices** with
 
 | Tool | Use |
 |---|---|
-| Confluence | Team wikis, internal documentation, review workflows |
-| Notion | Documentation planning, content tracking |
-| SharePoint | Document management and publishing |
 | CMS Platforms | Web-based content publishing and management |
+| SharePoint | Document management and publishing |
+| Confluence | Team wikis, internal documentation, review workflows |
+| JIRA | Documentation planning, content tracking |
 
 #### Project & Development Tools
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira)
@@ -114,9 +89,10 @@ I am passionate about combining **structured authoring best practices** with
 | Tool | Use |
 |---|---|
 | Jira | Sprint tracking, documentation tickets, release planning |
-| Azure DevOps | Work item tracking, documentation pipeline management |
 | Git / GitHub | Version control, documentation-as-code, portfolio hosting |
 | Snagit | Screenshots, annotations, and technical illustrations |
+| Azure DevOps | Work item tracking, documentation pipeline management |
+| Swagger | Document APIs
 
 #### AI & LLM Tools
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai)
@@ -162,15 +138,13 @@ I am passionate about combining **structured authoring best practices** with
 
 ```
 Technical Writing     ████████████████████  Expert
-DITA / XML            ████████████████░░░░  Advanced
-API Documentation     ████████████████░░░░  Advanced
-AI / LLM Tools        ███████████████░░░░░  Advanced
 MadCap Flare          ██████████████░░░░░░  Proficient
 Prompt Engineering    ██████████████░░░░░░  Proficient
-Information Arch.     █████████████░░░░░░░  Proficient
+DITA / XML            ████████████████░░░░  Advanced
+AI / LLM Tools        ███████████████░░░░░  Advanced
+API Documentation     ████████████████░░░░  Advanced
 Agile / Scrum         ████████████░░░░░░░░  Proficient
 ```
-
 ---
 
 ## 📫 Let's Connect
