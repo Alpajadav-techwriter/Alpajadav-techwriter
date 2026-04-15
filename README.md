@@ -1,7 +1,7 @@
 # Hi, I'm Alpa 👋
 ## Information Developer | Technical Writer
 
-📝 Specializing in user-centered documentation, 
+📝 Specializing in user-centered, developer documentation, 
    DITA structured authoring, and AI-driven content workflows
 
 ### 🛠️ Tools & Technologies
