@@ -25,9 +25,9 @@
 
 - # 👋 About Me
 
-Hi, I am an **Information Developer / Technical Writer** with **2–5 years of experience**
-in the software and technology industry. I specialize in transforming complex technical
-concepts into clear, accurate, and user-centered documentation that empowers both
+Hi, I am an **Information Developer / Technical Writer** with **4+ years of experience**
+in the software and Electrical/Semiconductor industry. I specialize in transforming complex technical
+information into clear, accurate, and user-centered documentation that empowers both
 developers and end users.
 
 I am passionate about combining **structured authoring best practices** with
@@ -37,13 +37,12 @@ I am passionate about combining **structured authoring best practices** with
 
 ## 🎯 What I Do
 
-- 📡 **API Documentation** — REST, JSON, XML — endpoints, authentication, error codes, code samples
 - 📘 **User & Admin Guides** — task-based, user-centered documentation for software products
 - 🗂️ **Structured Authoring** — DITA/XML topic-based writing with content reuse and single-sourcing
 - 🤖 **AI-Driven Workflows** — LLM-based content generation, prompt engineering, and AI-assisted review
 - 🏗️ **Information Architecture** — content structuring, taxonomy, and help system design
 - ✍️ **UI/UX Writing** — microcopy, tooltips, error messages, and onboarding content
-
+- 📡 **API Documentation** — REST, JSON, XML — endpoints, authentication, error codes, code samples
 ---
 
 ## 🛠️ Skills
@@ -92,7 +91,7 @@ I am passionate about combining **structured authoring best practices** with
 | Oxygen XML Editor | ⭐⭐⭐⭐⭐ | DITA authoring, XML validation, publishing |
 | MadCap Flare | ⭐⭐⭐⭐ | Online help, WebHelp, PDF output |
 | Adobe FrameMaker | ⭐⭐⭐ | Long-form structured documentation |
-| Arbortext Editor | ⭐⭐⭐ | Enterprise XML authoring |
+| Arbortext Editor | ⭐⭐⭐ | Enterprise SGML authoring |
 | R4i Writer | ⭐⭐⭐⭐⭐ | Structured content authoring |
 
 #### Collaboration & Content Platforms
@@ -140,11 +139,11 @@ I am passionate about combining **structured authoring best practices** with
 
 | Skill | Description |
 |---|---|
-| Technical Illustration Markup | Creating and annotating diagrams, flowcharts, and UI screenshots |
-| Engineering Drawing Interpretation | Reading and documenting technical and engineering diagrams |
 | Task & Content Analysis | Breaking down user tasks to design accurate, goal-oriented documentation |
 | Data Interpretation | Analyzing feedback, search queries, and analytics to improve content |
 | Problem Solving & Critical Thinking | Identifying documentation gaps and proposing effective solutions |
+| Technical Illustration Markup | Creating and annotating diagrams, flowcharts, and UI screenshots |
+| Engineering Drawing Interpretation | Reading and documenting technical and engineering diagrams |
 
 ---
 
@@ -153,7 +152,7 @@ I am passionate about combining **structured authoring best practices** with
 | Skill | Description |
 |---|---|
 | Strong Communication | Clear written and verbal communication with technical and non-technical stakeholders |
-| Cross-functional Collaboration | Partnering with developers, product managers, UX designers, and SMEs |
+| Cross-functional Collaboration | Collaboration with developers, product managers/owners, BA, UX designers, and SMEs |
 | Leadership & Time Management | Managing multiple documentation projects and deadlines simultaneously |
 | Stakeholder Management | Securing reviews, signoffs, and alignment across global teams |
 | Agile Adaptability | Thriving in fast-paced, iterative development environments |
