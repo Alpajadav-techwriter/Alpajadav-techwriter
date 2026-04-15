@@ -53,15 +53,15 @@ I am passionate about combining **structured authoring best practices** with
 
 | Skill | Details |
 |---|---|
+| Software Documentation | Enterprise application and SaaS product documentation |
 | User Guides | End-to-end user documentation for software and enterprise applications |
 | Administration Guides | System configuration, setup, and management documentation |
 | Integration Guides | API integration walkthroughs and developer-facing documentation |
+| Help Systems | Online help, WebHelp, and context-sensitive help authoring |
 | API Documentation | REST, JSON, XML — endpoints, parameters, responses, error codes |
 | Release Notes | Feature announcements, bug fixes, and version changelogs |
 | Knowledge Base Articles | Troubleshooting guides, FAQs, and how-to articles |
-| Help Systems | Online help, WebHelp, and context-sensitive help authoring |
 | UI/UX Writing | Microcopy, tooltips, error messages, onboarding flows |
-| Software Documentation | Enterprise application and SaaS product documentation |
 
 ---
 
@@ -69,12 +69,11 @@ I am passionate about combining **structured authoring best practices** with
 
 | Skill | Details |
 |---|---|
-| Information Architecture | Content structuring, taxonomy design, and topic hierarchy planning |
 | DITA / XML | Structured authoring — concept, task, and reference topic types |
 | Markdown | Lightweight documentation for developer portals and wikis |
 | Content Management | Version control, single-sourcing, and content reuse strategies |
 | Agile Documentation | Sprint-aligned documentation planning in Scrum environments |
-
+| Information Architecture | Content structuring, taxonomy design, and topic hierarchy planning |
 ---
 
 ### ⚙️ Tools & Technologies
