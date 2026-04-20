@@ -1,158 +1,143 @@
-- # 👋 About Me
+# ✏️ Documentation Style Guide
 
-Hi, I am Alpa Jadav, an **Information Developer / Technical Writer** with **4+ years of experience**
-in the software and Electrical/Semiconductor industry. I specialize in transforming complex technical
-information into clear, accurate, and user-centered documentation that empowers both
-developers and end users.
-
-I am passionate about combining **structured authoring best practices** with
-**AI-driven workflows** to deliver high-quality documentation faster and smarter.
+> Writing standards, tone guidelines, terminology, and formatting rules
+> for consistent, high-quality technical documentation.
 
 ---
 
-## 🎯 What I Do
+## 📋 Overview
 
-- 📘 **User & Admin Guides** - task-based, user-centered documentation for software products
-- 🗂️ **Structured Authoring** - DITA/XML topic-based writing with content reuse and single-sourcing
-- 🤖 **AI-Driven Workflows** - LLM-based content generation, prompt engineering, and AI-assisted review
-- 🏗️ **Information Architecture** - content structuring, taxonomy, and help system design
-- ✍️ **UI/UX Writing** - Tooltips, error messages, and onboarding content
-- 📡 **API Documentation** - REST, JSON, XML - endpoints, authentication, error codes, code samples
----
-
-## 🛠️ Skills
+This style guide defines the standards for all technical documentation
+produced by the Information Development team. All writers are expected
+to follow these guidelines to ensure consistency across all deliverables.
 
 ---
 
-### 📝 Technical Documentation
+## 1. Writing Principles
 
-| Skill | Details |
+### 1.1 User-Centered Writing
+- Write for the **user's goal**, not the product's feature
+- Answer the question: *"What is the user trying to accomplish?"*
+- Use **task-based headings** — "Creating a User Account" not "User Account Feature"
+
+### 1.2 Clarity
+- Use **plain language** — write at a Grade 8 reading level for general audiences
+- Use **short sentences** — aim for 15–20 words maximum per sentence
+- Use **active voice** — "Click Save" not "The Save button should be clicked"
+- Define technical terms on first use
+
+### 1.3 Conciseness
+- Remove filler words — "simply", "just", "basically", "very"
+- Remove redundant phrases — "click on" → "click", "in order to" → "to"
+- Keep paragraphs to 3–5 sentences maximum
+
+---
+
+## 2. Tone and Voice
+
+| Use | Avoid |
 |---|---|
-| Software Documentation | Enterprise application and SaaS product documentation |
-| User Guides | End-to-end user documentation for software and enterprise applications |
-| Administration Guides | System configuration, setup, and management documentation |
-| Integration Guides | API integration walkthroughs and developer-facing documentation |
-| Help Systems | Online help, WebHelp, and context-sensitive help authoring |
-| API Documentation | REST, JSON, XML - endpoints, parameters, responses, error codes |
-| Release Notes | Feature announcements, bug fixes, and version changelogs |
-| Knowledge Base Articles | Troubleshooting guides, and FAQs |
-| UI/UX Writing | Tooltips, error messages, onboarding flows |
+| Professional and friendly | Casual or overly formal |
+| Second person — "you" | Third person — "the user" |
+| Present tense | Future tense where possible |
+| Active voice | Passive voice |
+| Positive framing | Negative framing |
+
+**Examples:**
+
+✅ **Good:** "Click Save to create your account."
+❌ **Avoid:** "The account will be created when the Save button is clicked by the user."
+
+✅ **Good:** "Enter a valid email address."
+❌ **Avoid:** "Do not enter an invalid email address."
 
 ---
 
-### 🏗️ Content Development & Architecture
+## 3. Formatting Standards
 
-| Skill | Details |
+### 3.1 Headings
+- Use **sentence case** — "Getting started with the API" not "Getting Started With The API"
+- Keep headings **concise** — under 8 words where possible
+- Use heading levels logically — do not skip levels (H1 → H3)
+
+### 3.2 Lists
+- Use **bulleted lists** for unordered items (3 or more)
+- Use **numbered lists** for sequential steps
+- Keep list items **parallel in structure**
+- Do not use more than **2 levels** of nesting
+
+### 3.3 Code and UI Elements
+
+| Element | Formatting |
 |---|---|
-| DITA / XML | Structured authoring — concept, task, and reference topic types |
-| Markdown | Lightweight documentation for developer portals and wikis |
-| Content Management | Version control, single-sourcing, and content reuse strategies |
-| Agile Documentation | Sprint-aligned documentation planning in Scrum environments |
-| Information Architecture | Content structuring, taxonomy design, and topic hierarchy planning |
+| Code, commands, file names | `code font` |
+| UI elements (buttons, menus) | **Bold** |
+| Field names | **Bold** |
+| Variables and placeholders | *Italic* or `<placeholder>` |
+| Keyboard shortcuts | **Ctrl+S** |
+
+### 3.4 Notes and Warnings
+
+> 📝 **Note:** Use for supplementary information that helps users.
+
+> ⚠️ **Important:** Use for information that prevents errors.
+
+> 🚫 **Warning:** Use for information that prevents data loss or serious issues.
+
 ---
 
-### ⚙️ Tools & Technologies
+## 4. Terminology Guide
 
-#### Authoring & Publishing Tools
-![Oxygen XML](https://img.shields.io/badge/Oxygen-XML%20Editor-orange)
-![MadCap Flare](https://img.shields.io/badge/MadCap-Flare-red)
-![FrameMaker](https://img.shields.io/badge/Adobe-FrameMaker-blue)
-![Arbortext](https://img.shields.io/badge/Arbortext-Editor-darkblue)
-![R4i Writer](https://img.shields.io/badge/R4i-Writer-green)
+### 4.1 Preferred Terms
 
-| Tool | Proficiency | Use |
-|---|---|---|
-| Oxygen XML Editor | ⭐⭐⭐⭐⭐ | DITA authoring, XML validation, publishing |
-| MadCap Flare | ⭐⭐⭐⭐ | Online help, WebHelp, PDF output |
-| Adobe FrameMaker | ⭐⭐⭐ | Long-form structured documentation |
-| Arbortext Editor | ⭐⭐⭐ | Enterprise SGML authoring |
-| R4i Writer | ⭐⭐⭐⭐⭐ | Structured content authoring |
-
-#### Collaboration & Content Platforms
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?logo=microsoft-sharepoint)
-
-| Tool | Use |
+| Use | Avoid |
 |---|---|
-| CMS Platforms | Web-based content publishing and management |
-| SharePoint | Document management and publishing |
-| Confluence | Team wikis, internal documentation, review workflows |
-| JIRA | Documentation planning, content tracking |
+| click | click on, press, hit |
+| select | choose, pick |
+| enter | type, input, key in |
+| navigate to | go to, access |
+| displays | shows, appears |
+| ensure | make sure |
+| requires | needs |
 
-#### Project & Development Tools
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira)
-![Azure DevOps](https://img.shields.io/badge/Azure-DevOps-0078D4?logo=azure-devops)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-
-| Tool | Use |
-|---|---|
-| Jira | Sprint tracking, documentation tickets, release planning |
-| Git / GitHub | Version control, documentation-as-code, portfolio hosting |
-| Snagit | Screenshots, annotations, and technical illustrations |
-| Azure DevOps | Work item tracking, documentation pipeline management |
-| Swagger | Document APIs
-
-#### AI & LLM Tools
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai)
-![Copilot](https://img.shields.io/badge/Microsoft-Copilot-0078D4)
-![Claude](https://img.shields.io/badge/Claude-AI-blueviolet)
-
-| Tool | Use |
-|---|---|
-| Microsoft Copilot | AI-assisted drafting, editing, and summarization in Office 365 |
-| ChatGPT | First-draft generation, prompt engineering, content gap analysis |
-| Generative AI | LLM-based workflow automation and content acceleration |
-
-#### Microsoft 365
-`Word` `Excel` `PowerPoint` `Outlook` `Teams` `SharePoint`
+### 4.2 Capitalization
+- Product names: always capitalize — **Employee Management System**
+- UI elements: capitalize as they appear in the UI
+- Feature names: capitalize — **Advanced Search**, **Export Report**
+- General terms: lowercase — user account, dashboard, settings
 
 ---
 
-### 🔬 Technical & Analytical Skills
+## 5. API Documentation Standards
 
-| Skill | Description |
-|---|---|
-| Task & Content Analysis | Breaking down user tasks to design accurate, goal-oriented documentation |
-| Data Interpretation | Analyzing feedback, search queries, and analytics to improve content |
-| Problem Solving & Critical Thinking | Identifying documentation gaps and proposing effective solutions |
-| Technical Illustration Markup | Creating and annotating diagrams, flowcharts, and UI screenshots |
-| Engineering Drawing Interpretation | Reading and documenting technical and engineering diagrams |
+### 5.1 Endpoint Descriptions
+- Start with an **action verb** — "Retrieves", "Creates", "Updates", "Deletes"
+- Keep to **1-2 sentences**
+- Describe **what**, not **how**
 
----
+### 5.2 Parameter Descriptions
+- State whether **required or optional** clearly
+- Include **data type** and **valid values/ranges**
+- Give a **concrete example** where helpful
 
-### 🤝 Professional Skills
-
-| Skill | Description |
-|---|---|
-| Strong Communication | Clear written and verbal communication with technical and non-technical stakeholders |
-| Cross-functional Collaboration | Collaboration with developers, product managers/owners, BA, UX designers, and SMEs |
-| Leadership & Time Management | Managing multiple documentation projects and deadlines simultaneously |
-| Stakeholder Management | Securing reviews, signoffs, and alignment across global teams |
-| Agile Adaptability | Thriving in fast-paced, iterative development environments |
+### 5.3 Code Samples
+- Provide examples in at least **2 languages** — cURL + Python or JavaScript
+- Use **realistic, meaningful** values — not "string" or "value123"
+- Include **comments** in code samples to explain key steps
 
 ---
 
-## 📊 Skills at a Glance
+## 6. Review Checklist
 
-```
-Technical Writing     ████████████████████  Expert
-MadCap Flare          ██████████████░░░░░░  Proficient
-Prompt Engineering    ██████████████░░░░░░  Proficient
-DITA / XML            ████████████████░░░░  Advanced
-AI / LLM Tools        ███████████████░░░░░  Advanced
-API Documentation     ████████████████░░░░  Advanced
-Agile / Scrum         ████████████░░░░░░░░  Proficient
-```
----
+Before submitting documentation for review, verify:
 
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](www.linkedin.com/in/alpa-jadav-816311199)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836)](mailto:alpasjadav1004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717)](https://github.com/Alpajadav-techwriter)
-
----
-
-*"Documentation is not an afterthought — it is the bridge between technology and the people who use it."*
-
+- [ ] Follows active voice throughout
+- [ ] Uses second person ("you")
+- [ ] No filler words or redundant phrases
+- [ ] All UI elements formatted correctly
+- [ ] All code formatted in code blocks
+- [ ] Steps are numbered and sequential
+- [ ] Notes and warnings used appropriately
+- [ ] Terminology consistent with this guide
+- [ ] Reviewed with AI style check tool (Copilot/ChatGPT)
+- [ ] Reviewed by SME for technical accuracy
